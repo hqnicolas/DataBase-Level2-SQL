@@ -1,5 +1,5 @@
 
-# Exercício de Linguagem SQL - Junções, subconsultas (joins e subqueries) e CTE (Common Table Expression)
+# Junções, subconsultas (joins e subqueries) e CTE (Common Table Expression)
 
 ![tabelas](https://github.com/user-attachments/assets/9526730f-26ea-465c-9849-c6368d92526d)
 
