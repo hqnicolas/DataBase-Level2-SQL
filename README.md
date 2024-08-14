@@ -5,7 +5,7 @@
 - [sql_city_murder.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Review/sql_city_murder.sql) Parte 1 Query para encontrar o Assassino
 - [sql_city_principal.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Review/sql_city_principal.sql) Parte 2 Query para encontrar o Mandante
 
-# [Joins e Subqueries e CTE](https://github.com/hqnicolas/DataBase-Level2-SQL/tree/main/Joins%20Subqueries%20e%20CTE) 
+# [Joins, Subqueries e CTE](https://github.com/hqnicolas/DataBase-Level2-SQL/tree/main/Joins%20Subqueries%20e%20CTE) 
 - [aula2ex001.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Joins%20Subqueries%20e%20CTE/aula2ex001.sql) mais sinistros cadastrados
 - [aula2ex002.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Joins%20Subqueries%20e%20CTE/aula2ex002.sql) letra “a” no meio e não no final
 - [aula2ex003.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Joins%20Subqueries%20e%20CTE/aula2ex003.sql) clientes não possuem apólice
