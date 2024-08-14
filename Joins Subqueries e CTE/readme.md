@@ -1,3 +1,9 @@
+
+# Exercício de Linguagem SQL - Junções, subconsultas (joins e subqueries) e CTE (Common Table Expression)
+
+![tabelas](https://github.com/user-attachments/assets/9526730f-26ea-465c-9849-c6368d92526d)
+
+
 1. (Criar com CTE e subconsulta) Utilizando a linguagem SQL, execute consultas que possam responder a 
 seguinte questão: Qual(is) Carro(s) possui(em) mais sinistros cadastrados?
 NOTA: Utilize o modelo abaixo para responder as questões seguintes.
