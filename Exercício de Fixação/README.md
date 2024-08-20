@@ -1,7 +1,9 @@
+[SQLQuery2.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Exerc%C3%ADcio%20de%20Fixa%C3%A7%C3%A3o/SQLQuery2.sql)
 ![image](https://github.com/user-attachments/assets/66068467-3ed2-459c-955b-3d3ad0c3d5de)
 
 Com base no diagrama abaixo, faça um comando SELECT que traga o nome de TODOS os cursos e a quantidade de alunos cadastrados em cada curso, ordenados de forma decrescente pela quantidade de alunos.
 
+[SQLQuery3.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Exerc%C3%ADcio%20de%20Fixa%C3%A7%C3%A3o/SQLQuery3.sql)
 ![image](https://github.com/user-attachments/assets/9b89b02a-9df4-4783-a0a3-15fceb64ff52)
 
 - Construa uma consulta que informe quais carros possuem apólice vigente.
