@@ -29,6 +29,6 @@
 - [aula2ex019.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Operadores%20Relacionais/aula2ex019.sql)  regiões que começam com a letra S
 - [aula2ex020.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Operadores%20Relacionais/aula2ex020.sql) Quantas avaliações cadastradas
 
-# Exercício de Fixação
+# [Exercício de Fixação](https://github.com/hqnicolas/DataBase-Level2-SQL/tree/main/Exerc%C3%ADcio%20de%20Fixa%C3%A7%C3%A3o)
 - [SQLQuery2.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Exerc%C3%ADcio%20de%20Fixa%C3%A7%C3%A3o/SQLQuery2.sql) alunos cadastrados em cada curso
 - [SQLQuery3.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Exerc%C3%ADcio%20de%20Fixa%C3%A7%C3%A3o/SQLQuery3.sql) carros possuem apólice vigente
