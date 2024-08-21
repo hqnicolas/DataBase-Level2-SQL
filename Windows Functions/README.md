@@ -17,6 +17,9 @@ GO
 ```
 NOTA: Utilize o modelo abaixo para responder as questões de 1 à 8 e 11.
 
+![image](https://github.com/user-attachments/assets/51a03f70-e4d3-4256-a45f-3a63c3e88067)
+
+
 - 2 Dada a consulta abaixo, altere o cod_cliente para informar o nome do cliente. Para isso, utilize Join (escolha o tipo de JOIN mais adequado).
 ```
 SELECT cod_apolice
@@ -43,7 +46,12 @@ GO
 
 - 8 Altere a consulta anterior, adicionando uma outra coluna ao final do select list (preservar a coluna criada pela questão 7) informando quando ocorreu o último sinistro (menor data).
 
-- 9 Gere uma consulta listando o nome da região e o nome dos estados vinculados a cada região (resultado com 2 colunas) ordenados pelo nome da região e pelo nome do estado respectivamente. Gerar duas opções de consulta. Uma com JOIN e a outra com subconsultas no select list. NOTA: Utilize o modelo abaixo para responder as questões 9 e 10.
+- 9 Gere uma consulta listando o nome da região e o nome dos estados vinculados a cada região (resultado com 2 colunas) ordenados pelo nome da região e pelo nome do estado respectivamente. Gerar duas opções de consulta. Uma com JOIN e a outra com subconsultas no select list.
+
+NOTA: Utilize o modelo abaixo para responder as questões 9 e 10.
+
+![image](https://github.com/user-attachments/assets/31b146e6-0f00-432e-8fe2-6a9e66f70a46)
+
 
 - 10 Utilizando a consulta gerada na questão anterior, faça as alterações necessárias na consulta para informar o nome do estado que está na 5a posição do ranking.
 
