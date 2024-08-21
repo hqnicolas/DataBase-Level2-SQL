@@ -32,3 +32,16 @@
 # [Exercício de Fixação](https://github.com/hqnicolas/DataBase-Level2-SQL/tree/main/Exerc%C3%ADcio%20de%20Fixa%C3%A7%C3%A3o)
 - [SQLQuery2.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Exerc%C3%ADcio%20de%20Fixa%C3%A7%C3%A3o/SQLQuery2.sql) alunos cadastrados em cada curso
 - [SQLQuery3.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Exerc%C3%ADcio%20de%20Fixa%C3%A7%C3%A3o/SQLQuery3.sql) carros possuem apólice vigente
+
+# [Windows Functions](https://github.com/hqnicolas/DataBase-Level2-SQL/tree/main/Windows%20Functions)  
+- [aula3ex001.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex001.sql) utilize subconsulta na lista de select
+- [aula3ex002.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex002.sql) altere o cod_cliente
+- [aula3ex003.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex003.sql) nova coluna ordem ao final 
+- [aula3ex004.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex004.sql) adicionando uma nova chamada
+- [aula3ex005.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex005.sql) consulta na tabela sinistro 
+- [aula3ex006.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex006.sql) listar todos os dados dos carros 
+- [aula3ex007.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex007.sql) adicione uma coluna ao final do select
+- [aula3ex008.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex008.sql) adicionando uma outra coluna ao final
+- [aula3ex009.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex009.sql) listando o nome da região
+- [aula3ex010.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex010.sql) consulta gerada na questão anterior
+- [aula3ex011.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex011.sql) consulta na tabela apolice
