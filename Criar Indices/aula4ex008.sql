@@ -1,0 +1,3 @@
+-- Com base nas duas consultas geradas (SELECT sem WHERE e SELECT com WHERE Treviso) e compare a
+-- quantidade de registros retornadas em cada uma, os resultados dos SET STATISTICS e dos planos de acesso.
+-- Qual a diferença encontrada entre eles?
