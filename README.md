@@ -45,3 +45,16 @@
 - [aula3ex009.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex009.sql) listando o nome da região
 - [aula3ex010.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex010.sql) consulta gerada na questão anterior
 - [aula3ex011.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Windows%20Functions/aula3ex011.sql) consulta na tabela apolice
+
+# [Armazenamento de dados, indexação e planos de acesso](https://github.com/hqnicolas/DataBase-Level2-SQL/tree/main/Criar%20Indices)
+- [aula4ex001.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex001.sql) todas as colunas
+- [aula4ex002.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex002.sql) operador encontrado
+- [aula4ex003.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex003.sql) indice criado para esta tabela
+- [aula4ex004.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex004.sql) Crie um índice clustered
+- [aula4ex005.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex005.sql) plano de execução da consulta
+- [aula4ex006.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex006.sql) filtrando o camp
+- [aula4ex007.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex007.sql) guarde os resultados
+- [aula4ex008.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex008.sql) quantidade de registros retornadas
+- [aula4ex009.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex009.sql) Crie um índice nonclustered
+- [aula4ex010.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex010.sql) Execute as duas consultas
+- [aula4ex011.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex011.sql) problema do operador Key Lookup
