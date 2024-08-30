@@ -2,3 +2,4 @@
 -- ‘Treviso’. Gere o plano de execução e compare com o do exercício anterior. Encontrou alguma diferença?
 
 SELECT * FROM MICRODADOS_ENEM_2021_SC WHERE NO_MUNICIPIO_ESC = 'Treviso'
+--Nenhuma diferença
