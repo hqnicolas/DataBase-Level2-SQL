@@ -7,3 +7,9 @@
 --- compare os planos de execução gerados (o plano da questão 1
 -- com o plano gerado a partir dessa questão). Informe qual o nome do novo operador encontrado no novo
 -- plano de acesso gerado
+
+
+--5.
+select * from MICRODADOS_ENEM_2021_SC;
+go
+--Clustered Index Scan
