@@ -13,3 +13,7 @@ Para resolver esse problema, podemos tentar reduzir a quantidade de colunas reto
  É importante lembrar que o operador Clustered Index Scan é geralmente um sinal
  de uma tabela mal-projetada e pode indicar a necessidade de reestruturação 
  dos dados ou da chave primária da tabela.
+
+--2. Table Scan. Este operador indica que a tabela nao
+--tem um indice clustered. Indica-se a criacao de um indice
+--clustered para evitar o operador table scan.
