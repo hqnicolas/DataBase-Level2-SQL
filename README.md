@@ -58,3 +58,15 @@
 - [aula4ex009.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex009.sql) Crie um índice nonclustered
 - [aula4ex010.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex010.sql) Execute as duas consultas
 - [aula4ex011.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Criar%20Indices/aula4ex011.sql) problema do operador Key Lookup
+
+# [Junções, Subconsultas, CTE, Funções de Janela, Indexação](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2.pdf)
+- [avaliacao2questao1](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao1.sql) junções de tabelas em bancos de dados
+- [avaliacao2questao2](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao2.sql) índices em bancos de dados
+- [avaliacao2questao3](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao3.sql) consulta mais otimizada possível 
+- [avaliacao2questao4](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao4.sql) eliminar o problema de Key Lookup
+- [avaliacao2questao5](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao5.sql) quais carros possuem apólice não vigente
+- [avaliacao2questao6](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao6.sql) liste todos os dados de sinistro
+- [avaliacao2questao7](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao7.sql) liste o nome de todos os estados
+- [avaliacao2questao8](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao8.sql) nome do cliente dentro da função de janela
+- [avaliacao2questao9](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao9.sql) Resolva todos os impedimentos
+- [avaliacao2questao10](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao10.sql) dados das placas dos carros
