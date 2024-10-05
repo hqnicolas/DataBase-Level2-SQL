@@ -70,3 +70,6 @@
 - [avaliacao2questao8](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao8.sql) nome do cliente dentro da função de janela
 - [avaliacao2questao9](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao9.sql) Resolva todos os impedimentos
 - [avaliacao2questao10](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao10.sql) dados das placas dos carros
+
+# [Manipulação de Dados T-SQL](https://github.com/hqnicolas/DataBase-Level2-SQL/tree/main/Declarar%20e%20Atribuir)
+- [avaliacao2questao1](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Declarar%20e%20Atribuir/T-SQL.md) junções de tabelas em bancos de dados
