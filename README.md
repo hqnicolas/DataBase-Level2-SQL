@@ -72,7 +72,9 @@
 - [avaliacao2questao10](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Avalia%C3%A7%C3%A3o%201/avaliacao2questao10.sql) dados das placas dos carros
 
 # [Manipulação de Dados T-SQL](https://github.com/hqnicolas/DataBase-Level2-SQL/tree/main/Declarar%20e%20Atribuir)
-- [Transact-SQL.md](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Declarar%20e%20Atribuir/T-SQL.md) junções de tabelas em bancos de dados
-- [Declarar e Atribuir.md](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Declarar%20e%20Atribuir/declarar_e_atribuir.md) Declarar e atribuir variáveis e sinônimos
-- [Declarar e Atribuir.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Declarar%20e%20Atribuir/declarar_e_atribuir.sql) Declarar e inicializar as variáveis.
+- [TransactSQL.md](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Declarar%20e%20Atribuir/T-SQL.md) junções de tabelas em bancos de dados
+- [DeclararEAtribuir.md](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Declarar%20e%20Atribuir/declarar_e_atribuir.md) Declarar e atribuir variáveis e sinônimos
+- [DeclararEAtribuir.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Declarar%20e%20Atribuir/declarar_e_atribuir.sql) Declarar e inicializar as variáveis.
+- [ControleDeFluxo.md](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Controle%20de%20Fluxo/controle%20de%20fluxo.md) Usando os blocos IF e WHILE para controlar o fluxo
+- [LoopWhile.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Controle%20de%20Fluxo/loop_while.sql)  WHILE, que cria um loop
  
