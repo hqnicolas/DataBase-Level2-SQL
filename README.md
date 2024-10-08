@@ -75,6 +75,11 @@
 - [TransactSQL.md](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Declarar%20e%20Atribuir/T-SQL.md) junções de tabelas em bancos de dados
 - [DeclararEAtribuir.md](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Declarar%20e%20Atribuir/declarar_e_atribuir.md) Declarar e atribuir variáveis e sinônimos
 - [DeclararEAtribuir.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Declarar%20e%20Atribuir/declarar_e_atribuir.sql) Declarar e inicializar as variáveis.
-- [ControleDeFluxo.md](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Controle%20de%20Fluxo/controle%20de%20fluxo.md) Usando os blocos IF e WHILE para controlar o fluxo
+- [ControleDeFluxo.md](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Controle%20de%20Fluxo/controle_de_fluxo.md) Usando os blocos IF e WHILE para controlar o fluxo
 - [LoopWhile.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Controle%20de%20Fluxo/loop_while.sql)  WHILE, que cria um loop
+- [TrabalharComVariaveis.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Controle%20de%20Fluxo/trabalhar_com_variaveis.sql) armazenar temporariamente valores em variáveis
+- [TrabalharComSinonimos.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Controle%20de%20Fluxo/trabalho_com_sinonimos.sql) 
+
+# [Exercício: programar com T-SQL](https://learn.microsoft.com/pt-br/training/modules/get-started-transact-sql-programming/6-exercise-program-transact-sql?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.program-transact-sql)
+
  
