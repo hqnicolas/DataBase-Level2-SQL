@@ -18,7 +18,7 @@
 - [aula2ex010.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Joins%20Subqueries%20e%20CTE/aula2ex010.sql) data de fim da vigência da apólice
 - [aula2ex011.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Joins%20Subqueries%20e%20CTE/aula2ex011.sql) Quantas regiões existem cadastradas
 
-  # [Operadores Relacionais](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Operadores%20Relacionais/README.md)
+# [Operadores Relacionais](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Operadores%20Relacionais/README.md)
 - [aula2ex012.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Operadores%20Relacionais/aula2ex012.sql) estados existem cadastrados
 - [aula2ex013.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Operadores%20Relacionais/aula2ex013.sql)  municípios existem cadastrados
 - [aula2ex014.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Operadores%20Relacionais/aula2ex014.sql) municípios existem por estado
