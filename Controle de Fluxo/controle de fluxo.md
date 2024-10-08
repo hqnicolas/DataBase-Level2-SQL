@@ -1,4 +1,4 @@
-###Usando os blocos IF e WHILE para controlar o fluxo do programa:
+Usando os blocos IF e WHILE para controlar o fluxo do programa:
 
 Todas as linguagens de programação incluem elementos que ajudam a determinar o fluxo do programa ou a ordem em que as instruções são executadas. Embora não seja tenha tantos recursos quanto as linguagens como C#, o T-SQL fornece um conjunto de palavras-chave de controle de fluxo que você pode usar para executar testes lógicos e criar loops que contenham suas instruções de manipulação de dados T-SQL. Nesta lição, você aprenderá a usar as palavras-chave T-SQL IF e WHILE.
 
