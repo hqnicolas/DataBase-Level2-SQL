@@ -1,5 +1,5 @@
---Declare and initialize the variables.
+--Declarar e atribuir as variáveis
 DECLARE @numrows INT = 3, @catid INT = 2;
---Use variables to pass the parameters to the procedure.
+--Usar Variáveis para transmitir os parametros para o procedimento.
 EXEC Production.ProdsByCategory @numrows = @numrows, @catid = @catid;
 GO
