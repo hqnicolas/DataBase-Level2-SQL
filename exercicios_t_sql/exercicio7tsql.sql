@@ -1,0 +1,3 @@
+-- Crie uma stored procedure que adicione (INSERT) um carro, passando todas as informações necessárias para
+-- se cadastrar um carro como parâmetros de entrada. Depois de inserir o carro, a stored procedure deve listar
+-- (SELECT) todos os carros.

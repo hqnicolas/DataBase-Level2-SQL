@@ -1,0 +1,4 @@
+-- . Crie uma stored procedure que receba como parâmetro de entrada o código da apólice e a procedure deve
+-- buscar o nome do cliente que possui essa apólice. O nome do cliente deve ser retornado através de uma
+-- variável de saída.
+-- Caso não encontre o nome do cliente, informe a não existência do cliente por mensagem de PRINT.

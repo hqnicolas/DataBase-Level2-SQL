@@ -1,0 +1,5 @@
+-- Crie uma stored procedure que gere uma lista com os TOP “N” cursos com mais alunos. O “N” deverá ser
+-- passado como parâmetro da stored procedure, que deverá mostrar o resultado filtrado pelo ranking
+-- informado no N.
+-- Exemplo: Se N = 1, mostrar somente o curso (ou mais de um curso em caso de empate) mais alto do
+-- ranking. Se N = 3, mostrar os 3 cursos com mais alunos cadastrados

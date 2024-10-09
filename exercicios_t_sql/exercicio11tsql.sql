@@ -1,0 +1,7 @@
+-- Crie uma stored procedure que receba como parâmetro de entrada o código do sinistro e a procedure deve
+-- buscar a placa do carro que possui esse sinistro. A placa do carro deve ser retornada através de uma variável
+-- de saída.
+-- Caso não encontre o nome do cliente, informe a não existência do cliente por mensagem de PRINT.
+-- Continuando a execução do código fora da stored procedure, crie um SELECT na tabela carro, mostrando
+-- todos os dados do carro e passado como parâmetro WHERE a placa do carro que foi retornada pela
+-- procedure (variável de saída).
