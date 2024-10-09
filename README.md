@@ -80,6 +80,24 @@
 - [TrabalharComVariaveis.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Controle%20de%20Fluxo/trabalhar_com_variaveis.sql) armazenar temporariamente valores em variáveis
 - [TrabalharComSinonimos.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Controle%20de%20Fluxo/trabalho_com_sinonimos.sql) Criando um Vínculo de Sinonimo
 
-# [Exercício: programar com T-SQL](https://learn.microsoft.com/pt-br/training/modules/get-started-transact-sql-programming/6-exercise-program-transact-sql?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.program-transact-sql)
+# [Exercício: programar com T-SQL](https://raw.githubusercontent.com/hqnicolas/DataBase-Level2-SQL/refs/heads/main/exercicios_t_sql/Exercícios_Stored_Procedure_1.pdf)
+- [MsAzureLearn.com](https://learn.microsoft.com/pt-br/training/modules/get-started-transact-sql-programming/6-exercise-program-transact-sql?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.program-transact-sql) Modulo de treinamento Transaction SQL
+- [CreateTableSql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/create_t-sql.sql) Comando Create para usar nos exercícios
+- [CreateTableSqlBig.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/create_t-sql_big.sql) Comando Create para uma tabela maior
+- [exercicio1tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio1tsql.sql) Crie uma stored procedure que some dois valores
+- [exercicio2tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio2tsql.sql) Uma stored procedure que calcule a média de 4 valores
+- [exercicio3tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio3tsql.sql) Procedure que some quatros valores inteiros
+- [exercicio4tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio4tsql.sql) Receba a placa de um carro como parâmetro
+- [exercicio5tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio5tsql.sql) Receba um código de apólice como parâmetro
+- [exercicio6tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio6tsql.sql) Calcule o IMC (índice de massa corporal)
+- [exercicio7tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio7tsql.sql) cadastrar um carro como parâmetros de entrada
+- [exercicio8tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio8tsql.sql) Validações necessárias para se cadastrar um sinistro
+- e[xercicio9tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio9tsql.sql) uma lista com os TOP “N” cursos com mais alunos
+- [exercicio10tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio10tsql.sql) Receba como parâmetro de entrada o código da apólic
+- [exercicio11tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio11tsql.sql) Receba como parâmetro de entrada o código do sinistro
+ 
+
+
+
 
  
