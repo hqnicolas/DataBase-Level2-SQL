@@ -97,6 +97,7 @@
 - [exercicio11tsql.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/exercicios_t_sql/exercicio11tsql.sql) Receba como parâmetro de entrada o código do sinistro
 
 # [Avaliação: programação T-SQL](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Prova_T-SQL/prova-t-sql.pdf)
+- [Create_table.txt](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Prova_T-SQL/script_create_table.txt) Create Table SQL
 - [ex1_atividade.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Prova_T-SQL/ex1_atividade.sql) Responda qual é a finalidade
 - [ex2_atividade.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Prova_T-SQL/ex2_atividade.sql) Crie uma store procedure
 - [ex3_atividade.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Prova_T-SQL/ex3_atividade.sql) correção da falha
