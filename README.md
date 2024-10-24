@@ -103,7 +103,14 @@
 - [ex3_atividade.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Prova_T-SQL/ex3_atividade.sql) correção da falha
 - [ex4_atividade.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Prova_T-SQL/ex4_atividade.sql) a sua análise do código
 - [ex5_atividade.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Prova_T-SQL/ex5_atividade.sql) Crie uma stored procedure
- 
+
+ # [Atividade: T-SQL Triggers](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Trigger/Exerc%C3%ADcios%20Trigger%201.pdf)
+- [trigger_create_table.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Trigger/trigger_create_table.sql) Create Table: conta, lancamento e saldo
+- [trigger_ex1.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Trigger/trigger_ex1.sql) Criar uma procedure que adicione um lançamento.
+- [trigger_ex2.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Trigger/trigger_ex2.sql) Criar uma procedure que faça a transferência
+- [trigger_ex3.sql](https://github.com/hqnicolas/DataBase-Level2-SQL/blob/main/Trigger/trigger_ex3.sql) Criar uma tabela de log com data/hora da operação
+
+
 
 
 
